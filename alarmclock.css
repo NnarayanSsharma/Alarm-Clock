@@ -1,0 +1,8 @@
+.main-container{
+	width: 650px;
+	margin: auto;
+}
+input[type="text"]{
+	width: 28px;
+	padding: 4px;
+}
